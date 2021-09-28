@@ -1,10 +1,10 @@
 # スタイルの名前を指定してください。
-$name: My Style
+$name: Hokusai Style Koshu Kajika Zawa
 
 # 主な配色
-$background-color: "#F84646"
-$water-color: "#FAAF25"
-$road-color: "#FFFFFF"
+$background-color: "#406A54"
+$water-color: "#112D5D"
+$road-color: "#233449"
 
 
 # 以下は上級者専用
